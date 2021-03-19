@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication4;
+package PetShopProject;
 
-import static javaapplication4.conexao.con;
+import static PetShopProject.conexao.con;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
